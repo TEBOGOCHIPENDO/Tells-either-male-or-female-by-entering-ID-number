@@ -11,7 +11,7 @@ int main () {
     if (ID [6]>4){
     cout <<"female";
 
-    }else if (ID [6] <4); {
+    }else (ID [6] <4); {
     cout <<"male";
 
 
